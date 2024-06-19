@@ -44,7 +44,7 @@
 
 <img width="44%" align ="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gymiao&theme=tokyonight" />
 
-<img width="56%" align ="right" src="self.jpg" />
+<img width="54%" align ="right" src="self.jpg" />
 
 
 
