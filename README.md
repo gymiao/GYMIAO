@@ -3,8 +3,7 @@
 <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=gymiao&count_private=true&show_icons=true&theme=tokyonight" />
 
 <div align="left">
-☎️ Contact 422992533@qq.com
-
+📫 [muzili98125@gmail.com](https://kirigaya.cn/home) 
 
 💻 [Personal Website](https://kirigaya.cn/home)
 
