@@ -5,7 +5,7 @@
 <div align="left">
 
 
-📫[点击这里发送邮件给 example@example.com](mailto:example@example.com)
+📫[muzili98125@gmail.com](mailto:muzili98125@gmail.com)
 
 💻 [Personal Website](https://kirigaya.cn/home)
 
