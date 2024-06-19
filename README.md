@@ -5,7 +5,7 @@
 <div align="left">
 
 
-📫[muzili98125@gmail.com](mailto:muzili98125@gmail.com)
+📫[Email](mailto:muzili98125@gmail.com)
 
 💻 [Personal Website](https://kirigaya.cn/home)
 
