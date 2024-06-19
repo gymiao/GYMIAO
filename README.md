@@ -3,7 +3,7 @@
 <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api?username=gymiao&count_private=true&show_icons=true&theme=tokyonight" />
 
 <div align="left">
-☎️ Contact zhelonghuang@mail.ustc.edu.cn
+☎️ Contact 422992533@qq.com
 
 
 💻 [Personal Website](https://kirigaya.cn/home)
@@ -12,7 +12,6 @@
 
 📺 [BiliBili Page](https://space.bilibili.com/434469188)
 
-⚛️ [Digital-IDE document](https://digital-eda.github.io/DIDE-doc-Cn)
 </div>
 
 ---
