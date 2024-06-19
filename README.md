@@ -7,13 +7,13 @@
 
 📫[Google Email](mailto:muzili98125@gmail.com)
 
-💻 [Personal Website](https://kirigaya.cn/home)
+💻 [Personal Website](https://github.com/gymiao)
 
-📖 [Zhihu Page](https://www.zhihu.com/people/can-meng-zhong-de-che-xian/posts)
+📖 [Zhihu Page](https://www.zhihu.com/people/gao-yuan-25-16)
 
-📺 [BiliBili Page](https://space.bilibili.com/434469188)
+📺 [BiliBili Page](https://github.com/gymiao)
 
-⚛️ [Digital-IDE document](https://digital-eda.github.io/DIDE-doc-Cn)
+📱 [Twitter Page](https://github.com/gymiao)
 </div>
 
 ---
