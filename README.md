@@ -22,6 +22,7 @@
 
 <div style="display: flex">
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-right: 0.25rem"/>
 
 <img src="https://img.shields.io/badge/typescript-blue.svg?&style=for-the-badge&logo=typescript&logoColor=white" style="margin-right: 0.25rem"/>
 
@@ -29,11 +30,7 @@
 
 <img src="https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white" style="margin-right: 0.25rem"/>
 
-
 <img src="https://img.shields.io/badge/-c++-red?style=for-the-badge&logo=cplusplus&logoColor=white" style="margin-right: 0.25rem"/>
-
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" style="margin-right: 0.25rem"/>
 
 <img src="https://img.shields.io/badge/vue-brightgreen.svg?style=for-the-badge&logo=vue.js&logoColor=white" style="margin-right: 0.25rem"/>
 
